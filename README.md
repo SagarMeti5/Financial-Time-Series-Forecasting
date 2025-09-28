@@ -36,4 +36,4 @@ The dataset can be downloaded from **Kaggle**:
    cd Financial-Time-Series-Forecasting
 ## Author 
 **SAGAR METI**
-Data Enthusiast | Madras School of Economics
+Data Science Enthusiast | Madras School of Economics
